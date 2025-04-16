@@ -1,4 +1,4 @@
-baseURL= 'yeahman-test.pages.dev'
+baseURL= 'https://yeahman-test.pages.dev'
 languageCode = 'en-us'
 title = 'yeahman.cc'
 theme = 'ananke'

@@ -1,4 +1,4 @@
-baseURL = 'https://try2-dlo.pages.dev/'
+baseURL= 'yeahman-test.pages.dev'
 languageCode = 'en-us'
 title = 'yeahman.cc'
 theme = 'ananke'

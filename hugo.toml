@@ -1,0 +1,30 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'yeahman.cc'
+theme = 'ananke'
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+pagination.pagerSize = 6
+
+[languages]
+[languages.en]
+title = "yeahman.cc"
+weight = 1
+contentDir = "content/english" 
+[languages.tr]
+title = "yeahman.cc 🇹🇷"
+weight = 2
+contentDir = "content/turkish"
+
+[params]
+text_color = "black"
+author = "birbsophone"
+favicon = ""
+site_logo = ""
+background_color_class = "bg-black"
+recent_posts_number = 6
+
+[markup.goldmark.renderer]
+unsafe = true
+

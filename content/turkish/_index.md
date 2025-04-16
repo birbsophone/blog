@@ -1,7 +1,7 @@
 ---
 title: "yeahman.cc"
 
-description: "A.'nın topluma katkı yönelikli sitesi (belki sonra da daha fazlası)"
+description: "A.'nın topluma katkı niyetli sitesi (belki sonra da daha fazlası)"
 cascade:
   featured_image: '/images/shai-hulud.jpg'
 ---

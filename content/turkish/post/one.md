@@ -1,6 +1,6 @@
 +++
 date = '2025-04-14T22:19:47+03:00'
-draft = true
+draft = false
 title = 'Windows Üzerinde Ungoogled Chromium Nasıl İndirilir?'
 description = 'Adım Adım.'
 featured_image= "/images/chromium.jpg"

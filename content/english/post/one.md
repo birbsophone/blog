@@ -1,7 +1,7 @@
 +++
 date = '2025-04-12T21:09:58+03:00'
 description = 'Step by Step.'
-draft = true
+draft = false
 title = 'How do I Install and Update Ungoogled Chromium on Windows?'
 featured_image= "/images/chromium.jpg"
 tags= 'guide'

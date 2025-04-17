@@ -1,5 +1,5 @@
 ---
-title: "yeahman.cc"
+title: "Sandworm, yani Kumsolucanı"
 
 description: "A.'nın topluma katkı niyetli sitesi (belki sonra da daha fazlası)"
 cascade:

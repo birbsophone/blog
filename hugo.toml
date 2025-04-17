@@ -1,6 +1,6 @@
 baseURL= 'https://yeahman.pages.dev'
 languageCode = 'en-us'
-title = 'yeahman.cc'
+title = 'sandworm.cc'
 theme = 'ananke'
 
 DefaultContentLanguage = "en"
@@ -9,18 +9,18 @@ pagination.pagerSize = 6
 
 [languages]
 [languages.en]
-title = "yeahman.cc"
+title = "sandworm"
 weight = 1
 contentDir = "content/english" 
 [languages.tr]
-title = "yeahman.cc 🇹🇷"
+title = "sandworm 🇹🇷"
 weight = 2
 contentDir = "content/turkish"
 
 [params]
 text_color = "black"
 author = "birbsophone"
-favicon = ""
+favicon = "/images/logo.png"
 site_logo = ""
 background_color_class = "bg-black"
 recent_posts_number = 6
@@ -28,3 +28,11 @@ recent_posts_number = 6
 [markup.goldmark.renderer]
 unsafe = true
 
+[params.ananke.social.follow]
+networks = [
+  "github"
+]
+
+[params.ananke.social.github]
+username = "birbsophone"
+profilelink = "https://github.com/birbsophone/blog"
